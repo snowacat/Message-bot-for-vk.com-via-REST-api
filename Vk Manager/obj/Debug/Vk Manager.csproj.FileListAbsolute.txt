@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Debug\Vk Manager.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Debug\Vk Manager.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Debug\Vk Manager.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\Vk Manager.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\Vk Manager_MarkupCompile.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\Vk Manager.g.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\Vk_Manager.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\Vk Manager.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\Vk Manager.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Debug\Vk Manager.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Debug\Newtonsoft.Json.xml

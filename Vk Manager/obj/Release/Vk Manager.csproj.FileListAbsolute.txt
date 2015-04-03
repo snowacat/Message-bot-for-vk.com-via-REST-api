@@ -1,0 +1,26 @@
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Release\Vk Manager.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\MainWindow.baml
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\MainWindow.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\App.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\Vk Manager_MarkupCompile.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\Vk Manager.g.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\Vk_Manager.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\Vk Manager.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Release\Vk Manager.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\bin\Release\Vk Manager.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\Vk Manager.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\Vk Manager.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Vk Manager\Vk Manager\obj\Release\Vk Manager.csprojResolveAssemblyReference.cache
+C:\Github\vk\Vk Manager\bin\Release\Vk Manager.exe.config
+C:\Github\vk\Vk Manager\obj\Release\Vk Manager.exe
+C:\Github\vk\Vk Manager\obj\Release\Vk Manager.pdb
+C:\Github\vk\Vk Manager\obj\Release\Vk Manager.csprojResolveAssemblyReference.cache
+C:\Github\vk\Vk Manager\obj\Release\MainWindow.baml
+C:\Github\vk\Vk Manager\obj\Release\MainWindow.g.cs
+C:\Github\vk\Vk Manager\obj\Release\App.g.cs
+C:\Github\vk\Vk Manager\obj\Release\Vk Manager_MarkupCompile.cache
+C:\Github\vk\Vk Manager\obj\Release\Vk Manager.g.resources
+C:\Github\vk\Vk Manager\obj\Release\Vk_Manager.Properties.Resources.resources
+C:\Github\vk\Vk Manager\obj\Release\Vk Manager.csproj.GenerateResource.Cache
+C:\Github\vk\Vk Manager\bin\Release\Vk Manager.exe
+C:\Github\vk\Vk Manager\bin\Release\Vk Manager.pdb
